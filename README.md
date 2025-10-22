@@ -23,5 +23,5 @@ Here are some of my AI mini-projects that showcase my skills:
 
 ## Contact
 - LinkedIn: [linkedin.com/in/shaneika](https://www.linkedin.com/in/shaneika)  
-- Email: your.email@example.com
+- Email: shaneika.sn@gmail.com
 
