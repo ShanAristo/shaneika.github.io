@@ -1,4 +1,4 @@
-# Hi, I'm Shaneika 👋
+# Hi, I'm Shan 👋
 
 ## About Me
 I am an MSc AI & Data Science graduate with a focus on **Applied AI, LLM tools, and automation**. I build **real AI solutions** that solve business problems, not just toy demos.
